@@ -1,0 +1,7 @@
+Flask==0.12
+boto3==1.7.7
+python_jose==2.0.2
+requests==2.12.4
+simplejson==3.13.2
+jose==1.0.0
+PyJWT==1.6.1

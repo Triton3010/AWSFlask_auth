@@ -1,0 +1,18 @@
+[
+{
+    "group_name": "Default",
+    "group_policy":
+    {
+        "Version": "2012-10-17",
+        "Statement": [
+        {
+            "Sid": "Stmt1524591948858",
+            "Action": "cognito-idp:*",
+            "Effect": "Allow",
+            "Resource": "arn:aws:cognito-idp:us-east-1:userid:userpool/pool_id"
+        }]
+    },
+    "created": "false",
+    "allowed_functions": ["protected", "admin_panel", "view_data"]
+}
+   ]

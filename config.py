@@ -1,0 +1,6 @@
+aws_region= ''
+aws_access_key_id= ''
+aws_secret_access_key= ''
+cognito_pool_id= ''
+client_id = ''
+client_secret = ''
